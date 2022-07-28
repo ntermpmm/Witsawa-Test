@@ -2,8 +2,10 @@
 
 ## Available Scripts
 
-In the project directory, you can run:
-* [![React][React.js]][React-url]
+In the project included:
+* react
+* axios
+* react-router-dom
 
 ### `npm start`
 
