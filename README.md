@@ -1,11 +1,15 @@
-# Getting Started with npm i
+# Getting Started
+* npm i
+* npm start
 
-## Available Scripts
-
-In the project included:
+## In the project included:
 * react
 * axios
 * react-router-dom
+
+## Total Pages:
+* Test01 path:('/')
+* Test02 path:('/02')
 
 ### `npm start`
 
